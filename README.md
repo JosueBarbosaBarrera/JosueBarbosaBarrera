@@ -2,12 +2,12 @@
 #### I am current systems engineering student
 ![I am current systems engineering student](https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/07/16/0f6fa179-6d5b-4949-bcba-a1a89f9d6da9.jpg)
 
-I’m interested in expand and apply my knowledge in programming languages such as Python, Java , MongoBD, VHDL and Digital Electronic.
+I’m interested in expand and apply my knowledge in Python programming, Django, APIs, MongoBD, VHDL and Digital Electronic.
 
-Skills: Python / Flask / Django / JS / HTML / CSS / PostgreSQL
+Skills: Python / Flask / Django / Rest / PostgreSQL
 
-- 🔭 I’m currently working on UST Global Mexico. 
-- 🌱 I’m currently learning Python, testcafe & selenium. 
+- 🔭 I’m currently working on Intel Mexico. 
+- 🌱 I’m currently learning Python, Django, Restframework, testcafe & selenium.
 - 👯 I’m looking to collaborate on projects rolled up with web development, testing and automation. 
 - 📫 How to reach me: my social networks 
 
